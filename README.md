@@ -1,3 +1,5 @@
+![YPDL-Banner](https://github.com/IBMDeveloperMEA/YPDL-SentimentAnalysis-LR/raw/main/images/slide_images/Slide1.png?raw=true)
+
 # Your Path To Deep Learning
 
 The majority of data in the world is unlabeled and unstructured, for instance, images, sound, and text data. Shallow neural networks cannot easily capture relevant structures within this type of data, but deep networks are capable of discovering the hidden structures. With the help of various frameworks we can build neural networks that allow us to demystify various use cases based on various industries and predict outcomes, thus they have now become an integral part of our day to day lives. 
