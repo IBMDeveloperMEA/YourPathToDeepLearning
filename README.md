@@ -38,5 +38,5 @@ As a follow-up to our Your Path to AI series which was conducted in 2020, we are
 |Language Processing using Recurrent Neural Networks with TensorFlow|[Karim Deif](https://developer.ibm.com/profiles/karim.deif1/), [Mridul Bhandari](https://developer.ibm.com/profiles/mridul.bhandari/)|TBD|[Click here for recording](https://www.crowdcast.io/e/ypdl-3)|
 |Personalized Recommendation Engines with TensorFlow|[Asna Javed](https://developer.ibm.com/profiles/asna.javed1/), [Fawaz Siddiqi](https://developer.ibm.com/profiles/mohammad.fawaz.siddiqi/), Guest Speaker: [Saif Ullah Bin Khaki](https://www.linkedin.com/in/saif-ullah-bin-khaki-57ba45170/)|TBD|[Click here for recording](https://www.crowdcast.io/e/ypdl-4)|
 
-## Get your certificate for the series!
+## Get your certificate & badge for the series!
 ![YPDL-Banner-2](https://github.com/IBMDeveloperMEA/YPDL-SentimentAnalysis-LR/blob/main/images/slide_images/Slide3.png?raw=true)
